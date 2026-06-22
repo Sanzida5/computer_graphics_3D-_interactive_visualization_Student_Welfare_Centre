@@ -43,7 +43,7 @@ A real-time 3D Student Welfare Centre visualization project developed using Open
 <img width="1181" height="926" alt="Screenshot 2026-05-01 090132" src="https://github.com/user-attachments/assets/cc3b585c-a672-4dfc-9ad2-38c05f11d383" />
 <img width="1796" height="836" alt="Screenshot 2026-05-01 090155" src="https://github.com/user-attachments/assets/e72aa730-c75d-4c4d-81b1-1ed0ef5b7e69" />
 <img width="1627" height="603" alt="Screenshot 2026-05-01 090207" src="https://github.com/user-attachments/assets/5b9b3db8-7882-4723-ac3d-e644f434604d" />
-<img width="631" height="503" alt="Screenshot 2026-05-01 090213" src="https://github.com/user-attachments/assets/cb98c5e4-4f65-4e2b-b2dd-b28a200bec5a" />
+
 <img width="691" height="651" alt="Screenshot 2026-05-01 090218" src="https://github.com/user-attachments/assets/c6fbb313-e583-4715-9a6b-c30edf0bf4d7" />
 <img width="1516" height="751" alt="Screenshot 2026-05-01 090228" src="https://github.com/user-attachments/assets/ea2764ba-7559-4421-8a6f-9e69315a17b5" />
 <img width="1907" height="922" alt="pic_day" src="https://github.com/user-attachments/assets/06acdfe3-5226-4b3d-a8f9-421d3ce18b78" />
